@@ -1,4 +1,4 @@
-# DB_Hostel
+# DB_Hotel
 Problem statement
 
 Subject area: hotel. The database should implement:
