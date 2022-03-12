@@ -12,7 +12,7 @@ Subject area: hotel. The database should implement:
 
 In my database, I have identified the following main entities:
 * Booking Information
-* Customers
+* Clients
 * Rooms
 
 
